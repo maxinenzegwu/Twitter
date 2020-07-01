@@ -13,6 +13,7 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mnzegwu/.gradle/ca
 MERGED from [androidx.room:room-runtime:2.2.5] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/a2cceacf257e12f39756e4d868e810e4/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/850e6957ce3369a16f2459af63b5795f/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/557ee706423eeddb8770f907ca57ff6d/jetified-stetho-1.5.1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/eee1cd7e514212659a13bda6b3158b99/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/3cc1ca33948a0e04acce8ccde8ed2214/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/89d1dc04da5470722516502b94f74a3f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/07b4443dca1e71c32312a8bbf6182a9a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -31,11 +32,11 @@ MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/mnzegwu/.gradle/caches/transfo
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/2cdafec5250d1434d1722c8471b7c106/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/bef1359aff7539fc9a034b3dcd86b9a0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/f31e3a5ce01e80b710fa2fda662f389d/core-runtime-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/7d2723f2b6d1a6c4b047d7a798d9ae4e/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/b730b2f9e84b98ab938b2732e7d41a69/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/fbd66daa1642edd15715a2a94cc2f5a2/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/966f1c398547bf9f160fb65359d5c461/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/983a8bd508fe2a6bbac6cae9a4df4539/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/7d2723f2b6d1a6c4b047d7a798d9ae4e/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-39:12
 INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-39:12
 INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-39:12
@@ -155,6 +156,8 @@ MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/mnzegwu/.gradle/ca
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/850e6957ce3369a16f2459af63b5795f/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/557ee706423eeddb8770f907ca57ff6d/jetified-stetho-1.5.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/557ee706423eeddb8770f907ca57ff6d/jetified-stetho-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/eee1cd7e514212659a13bda6b3158b99/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/eee1cd7e514212659a13bda6b3158b99/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/3cc1ca33948a0e04acce8ccde8ed2214/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/3cc1ca33948a0e04acce8ccde8ed2214/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/89d1dc04da5470722516502b94f74a3f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -191,6 +194,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mnzegwu/.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/bef1359aff7539fc9a034b3dcd86b9a0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/f31e3a5ce01e80b710fa2fda662f389d/core-runtime-2.0.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/f31e3a5ce01e80b710fa2fda662f389d/core-runtime-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/7d2723f2b6d1a6c4b047d7a798d9ae4e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/7d2723f2b6d1a6c4b047d7a798d9ae4e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/b730b2f9e84b98ab938b2732e7d41a69/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/b730b2f9e84b98ab938b2732e7d41a69/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/fbd66daa1642edd15715a2a94cc2f5a2/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
@@ -199,8 +204,6 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mnzegwu/.gradl
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/966f1c398547bf9f160fb65359d5c461/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/983a8bd508fe2a6bbac6cae9a4df4539/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/983a8bd508fe2a6bbac6cae9a4df4539/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/7d2723f2b6d1a6c4b047d7a798d9ae4e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/7d2723f2b6d1a6c4b047d7a798d9ae4e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
