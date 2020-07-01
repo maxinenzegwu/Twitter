@@ -870,7 +870,9 @@ id title_template
 id top
 id topPanel
 id tvBody
+id tvName
 id tvScreenName
+id tvTime
 id unchecked
 id uniform
 id up
