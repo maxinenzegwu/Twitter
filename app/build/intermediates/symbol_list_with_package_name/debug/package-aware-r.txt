@@ -1523,6 +1523,7 @@ id invisible
 id italic
 id item_touch_helper_previous_elevation
 id ivProfileImage
+id ivURL
 id labeled
 id largeLabel
 id left

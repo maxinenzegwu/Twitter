@@ -54,9 +54,18 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginStart="5dp"
+        android:layout_marginStart="0dp"
         android:layout_marginTop="54dp"
         android:layout_marginEnd="339dp"
         android:text="TextView" />
+
+    <ImageView
+        android:id="@+id/ivURL"
+        android:layout_width="91dp"
+        android:layout_height="87dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="41dp"
+        tools:srcCompat="@tools:sample/avatars" />
 
 </RelativeLayout>
