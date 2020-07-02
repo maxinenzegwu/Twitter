@@ -42,7 +42,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginStart="13dp"
-        android:layout_marginTop="3dp"
+        android:layout_marginTop="0dp"
         android:layout_toEndOf="@+id/tvScreenName"
         android:text="name"
         android:textSize="14sp" />

@@ -1,14 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-39:12
+ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-40:12
 MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/07fb5240e4c8e0cc484ac6ec0121150f/jetified-android-oauth-handler-2.2.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/b3c5386337f4d780aafd4a91fa187c5a/material-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.codepath.libraries:asynchttpclient:0.0.9] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/0197d6c90eb5df2df1b6e1aee572780f/jetified-asynchttpclient-0.0.9/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/cb5e1a0482a33b78cafb1cc34c0bbb5c/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/25b98af3cc3721fa6fef608159418880/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/a18d3514c0ab8e5986195f9dda02988c/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/0f350bb63d89f962c8cb8fffa6475a29/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/555b85cc40dd3f089752abdb8ce17ee2/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.room:room-runtime:2.2.5] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/a2cceacf257e12f39756e4d868e810e4/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/850e6957ce3369a16f2459af63b5795f/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:2:1-13:12
@@ -17,16 +19,19 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mnzegw
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/3cc1ca33948a0e04acce8ccde8ed2214/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/89d1dc04da5470722516502b94f74a3f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/07b4443dca1e71c32312a8bbf6182a9a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/97cf65048466aec764317db08fce8120/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/2355f06806a9cfd0ba3024cc259c8559/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/25af57b3f61628633760567563a1de5f/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/edfb0c0456570e22d7210ac307d44460/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/ae43237de50e266fa268255b3c80c220/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/023996b854b826e01a175214c74bf0e8/transition-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/05221253ba7d713d3cb7f63d8409e142/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/22425290814cf6856ad41ffb077be1f4/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/edfb0c0456570e22d7210ac307d44460/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/ae43237de50e266fa268255b3c80c220/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/c1489ca949efe28b3e19fe04776a0f4a/core-1.1.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/306dbf8adbbb782f740da84ce087dce3/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/2cd962d6ddf11aa626067392cdeafccf/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/6079d088753d2955bde9c347b55e1721/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/92973ffe10bac764ae4853752cf5385f/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/da7664c42ae9c6d0be35a91967ca6b4c/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/fb99e9c31392569e9106fd1e431411d1/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/2cdafec5250d1434d1722c8471b7c106/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
@@ -37,9 +42,9 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mnze
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/fbd66daa1642edd15715a2a94cc2f5a2/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/966f1c398547bf9f160fb65359d5c461/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/983a8bd508fe2a6bbac6cae9a4df4539/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:2:1-40:12
 	package
 		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:3:5-51
 		INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml
@@ -63,7 +68,9 @@ ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:8:5-8
 	android:name
 		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:8:22-78
 application
-ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:10:5-37:19
+ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:10:5-38:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/b3c5386337f4d780aafd4a91fa187c5a/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/b3c5386337f4d780aafd4a91fa187c5a/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/25b98af3cc3721fa6fef608159418880/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/25b98af3cc3721fa6fef608159418880/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/a18d3514c0ab8e5986195f9dda02988c/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
@@ -92,54 +99,60 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mnze
 		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:15:9-40
 	android:name
 		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:11:9-35
+activity#com.codepath.apps.restclienttemplate.ComposeActivity
+ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:16:9-62
+	android:name
+		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:16:19-50
 activity#com.codepath.apps.restclienttemplate.TimelineActivity
-ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:16:9-63
+ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:17:9-54
 	android:name
-		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:16:19-51
+		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:17:19-51
 activity#com.codepath.apps.restclienttemplate.LoginActivity
-ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:17:9-36:20
+ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:18:9-37:20
 	android:label
-		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:20:13-45
 	android:theme
-		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:20:13-44
+		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:21:13-44
 	android:name
-		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:18:13-42
+		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:19:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:25:27-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
-ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:26:13-35:29
+ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:27:13-36:29
 action#android.intent.action.VIEW
-ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:27:17-69
+ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:27:25-66
+		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:29:17-76
+ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:30:17-76
 	android:name
-		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:29:27-73
+		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:30:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:30:17-78
+ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:31:17-78
 	android:name
-		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:30:27-75
+		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:31:27-75
 data
-ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:32:17-34:62
+ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:33:17-35:62
 	android:host
-		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:33:21-55
+		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:34:21-55
 	android:scheme
-		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:34:21-59
+		ADDED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml:35:21-59
 uses-sdk
 INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mnzegwu/Desktop/Twitter/app/src/main/AndroidManifest.xml
 MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/07fb5240e4c8e0cc484ac6ec0121150f/jetified-android-oauth-handler-2.2.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/07fb5240e4c8e0cc484ac6ec0121150f/jetified-android-oauth-handler-2.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/b3c5386337f4d780aafd4a91fa187c5a/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/b3c5386337f4d780aafd4a91fa187c5a/material-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.codepath.libraries:asynchttpclient:0.0.9] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/0197d6c90eb5df2df1b6e1aee572780f/jetified-asynchttpclient-0.0.9/AndroidManifest.xml:7:5-9:41
 MERGED from [com.codepath.libraries:asynchttpclient:0.0.9] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/0197d6c90eb5df2df1b6e1aee572780f/jetified-asynchttpclient-0.0.9/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/cb5e1a0482a33b78cafb1cc34c0bbb5c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -148,6 +161,8 @@ MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mnzegwu/.gradle/cach
 MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/25b98af3cc3721fa6fef608159418880/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/a18d3514c0ab8e5986195f9dda02988c/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/a18d3514c0ab8e5986195f9dda02988c/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/0f350bb63d89f962c8cb8fffa6475a29/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/0f350bb63d89f962c8cb8fffa6475a29/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/555b85cc40dd3f089752abdb8ce17ee2/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/555b85cc40dd3f089752abdb8ce17ee2/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.room:room-runtime:2.2.5] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/a2cceacf257e12f39756e4d868e810e4/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
@@ -164,18 +179,22 @@ MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mnzegwu/.gradl
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/89d1dc04da5470722516502b94f74a3f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/07b4443dca1e71c32312a8bbf6182a9a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/07b4443dca1e71c32312a8bbf6182a9a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/97cf65048466aec764317db08fce8120/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/97cf65048466aec764317db08fce8120/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/2355f06806a9cfd0ba3024cc259c8559/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/2355f06806a9cfd0ba3024cc259c8559/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/25af57b3f61628633760567563a1de5f/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/25af57b3f61628633760567563a1de5f/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/edfb0c0456570e22d7210ac307d44460/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/edfb0c0456570e22d7210ac307d44460/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/ae43237de50e266fa268255b3c80c220/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/ae43237de50e266fa268255b3c80c220/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/023996b854b826e01a175214c74bf0e8/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/023996b854b826e01a175214c74bf0e8/transition-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/05221253ba7d713d3cb7f63d8409e142/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/05221253ba7d713d3cb7f63d8409e142/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/22425290814cf6856ad41ffb077be1f4/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/22425290814cf6856ad41ffb077be1f4/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/edfb0c0456570e22d7210ac307d44460/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/edfb0c0456570e22d7210ac307d44460/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/ae43237de50e266fa268255b3c80c220/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/ae43237de50e266fa268255b3c80c220/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/c1489ca949efe28b3e19fe04776a0f4a/core-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/c1489ca949efe28b3e19fe04776a0f4a/core-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/306dbf8adbbb782f740da84ce087dce3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
@@ -184,6 +203,8 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mnzegwu/.gradle
 MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/2cd962d6ddf11aa626067392cdeafccf/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/6079d088753d2955bde9c347b55e1721/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/6079d088753d2955bde9c347b55e1721/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/92973ffe10bac764ae4853752cf5385f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/92973ffe10bac764ae4853752cf5385f/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/da7664c42ae9c6d0be35a91967ca6b4c/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/da7664c42ae9c6d0be35a91967ca6b4c/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/mnzegwu/.gradle/caches/transforms-2/files-2.1/fb99e9c31392569e9106fd1e431411d1/sqlite-2.0.1/AndroidManifest.xml:20:5-44
